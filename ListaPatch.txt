@@ -1,1 +1,9 @@
-teste.txt 00000000 0
+main.premium 1f70a4f0 2775700
+Data/Custom/Monster/Monster19slp.bmd afbde802 550167
+Data/Custom/Monster/serufanhair_R.ozj 9e0a7162 25264
+Data/Custom/Monster/serufan_arm.ozj 58a2dbca 48333
+Data/Custom/Monster/serufan_body.ozj 1f2d1ff4 146672
+Data/Custom/Monster/serufan_wand.ozj 1daa4ccc 42480
+Data/Custom/Monster/serufan_wing.ozt 833e2d07 65558
+Data/Local/mix.bmd fa1859c5 66968
+Data/Local/por/skill_por.bmd 7e7648af 57204
