@@ -55,6 +55,9 @@ Data/Item/Yellow.ozj c9b62b85 1143
 Data/Local/mix.bmd fa1859c5 66968
 Data/Local/Eng/ItemTooltip_eng.bmd 2cb8b453 1015812
 Data/Local/Eng/Item_eng.bmd e1b56256 688132
+Data/Local/Por/ItemTooltip_por.bmd b0eefeda 1015812
+Data/Local/Por/Item_por.bmd 5d49076a 688132
+Data/Local/Por/skill_por.bmd 7e7648af 57204
 Data/Local/Spn/ItemTooltip_spn.bmd 2cb8b453 1015812
 Data/Local/Spn/Item_spn.bmd e1b56256 688132
 Data/Player/armormale100wg.bmd 13644471 167680
