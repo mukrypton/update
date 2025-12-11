@@ -52,6 +52,14 @@ Data/Item/Jewel04.bmd c310a100 2890
 Data/Item/Jewel06.bmd b0246909 2890
 Data/Item/Purple.ozj 33f2e739 1250
 Data/Item/Yellow.ozj c9b62b85 1143
+Data/Local/mix.bmd 0fbfcceb 89272
+Data/Local/Eng/ItemTooltip_eng.bmd 2cb8b453 1015812
+Data/Local/Eng/Item_eng.bmd 5a9154a7 688132
+Data/Local/Por/ItemTooltip_por.bmd 2cb8b453 1015812
+Data/Local/Por/Item_por.bmd 5a9154a7 688132
+Data/Local/Por/skill_por.bmd 7e7648af 57204
+Data/Local/Spn/ItemTooltip_spn.bmd 2cb8b453 1015812
+Data/Local/Spn/Item_spn.bmd 5a9154a7 688132
 Data/Player/armormale100wg.bmd 13644471 167680
 Data/Player/bootmale100wg.bmd f11e7088 81972
 Data/Player/glovemale100wg.bmd 8c868ff9 85744
