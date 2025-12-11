@@ -1,5 +1,5 @@
 Camera.dll f298096a 33280
-Main.exe 0dbfe6a4 3615232
+Main.exe cd6f3bce 3651584
 main.premium eaa61dfa 2775700
 Data/Custom/Monster/AQ_assassin_body.OZJ a8a50822 133266
 Data/Custom/Monster/AQ_assassin_feather.OZJ c614b301 80469
@@ -52,14 +52,6 @@ Data/Item/Jewel04.bmd c310a100 2890
 Data/Item/Jewel06.bmd b0246909 2890
 Data/Item/Purple.ozj 33f2e739 1250
 Data/Item/Yellow.ozj c9b62b85 1143
-Data/Local/mix.bmd fa1859c5 66968
-Data/Local/Eng/ItemTooltip_eng.bmd 2cb8b453 1015812
-Data/Local/Eng/Item_eng.bmd e1b56256 688132
-Data/Local/Por/ItemTooltip_por.bmd b0eefeda 1015812
-Data/Local/Por/Item_por.bmd 5d49076a 688132
-Data/Local/Por/skill_por.bmd 7e7648af 57204
-Data/Local/Spn/ItemTooltip_spn.bmd 2cb8b453 1015812
-Data/Local/Spn/Item_spn.bmd e1b56256 688132
 Data/Player/armormale100wg.bmd 13644471 167680
 Data/Player/bootmale100wg.bmd f11e7088 81972
 Data/Player/glovemale100wg.bmd 8c868ff9 85744
