@@ -50,6 +50,7 @@ Data/Custom/Monster/T_Npc_027_wing_d.ozj a86bdbb5 209839
 Data/Item/Jewel04.bmd c310a100 2890
 Data/Item/Jewel06.bmd b0246909 2890
 Data/Item/Purple.ozj 33f2e739 1250
+Data/Item/riv_CAPE_HAMLOO_FIX.ozt 6c62908f 1048598
 Data/Item/Yellow.ozj c9b62b85 1143
 Data/Local/mix.bmd 0fbfcceb 89272
 Data/Local/Eng/ItemTooltip_eng.bmd 2cb8b453 1015812
