@@ -1,5 +1,5 @@
 Main.exe cd6f3bce 3651584
-main.premium 1da53c8a 2775700
+main.premium 442b2530 2775700
 Data/Custom/Monster/AQ_assassin_body.OZJ a8a50822 133266
 Data/Custom/Monster/AQ_assassin_feather.OZJ c614b301 80469
 Data/Custom/Monster/AQ_assassin_jewel.OZJ 3ec1a7e9 17739
