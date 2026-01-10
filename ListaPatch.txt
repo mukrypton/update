@@ -16,7 +16,6 @@ msvcr100.dll db505e33 770384
 ogg.dll bb239ef8 53248
 Plugin.dll 58f2310a 355328
 Settings.ini d57a79b4 1026
-Uninstal.exe 400a20c4 1702976
 vorbisfile.dll b3544474 999424
 wzAudio.dll a0747522 212992
 xController.ini 52f2fb73 369
