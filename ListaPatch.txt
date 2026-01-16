@@ -236,6 +236,7 @@ Data/Item/DcMakerFenrRedCk.ozt b0fedeb3 1048624
 Data/Item/DcMakerFenrRedWing.ozt 095e8f87 262192
 Data/Item/DcMakerMistAxe.ozj f5ded147 104174
 Data/Item/DcMakerMistBow.ozj f5ded147 104174
+Data/Item/DcMakerMistHammer.ozj f5ded147 104174
 Data/Item/DcMakerMistKnife.ozj f5ded147 104174
 Data/Item/DcMakerMistMace.ozj f5ded147 104174
 Data/Item/DcMakerMistShield.ozj f5ded147 104174
