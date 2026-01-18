@@ -164,6 +164,7 @@ Data/Item/bowbrancod100.bmd 000cad91 73538
 Data/Item/BowDcMakerSteel2.ozj 9a30a3db 74331
 Data/Item/BowDcMakerSteel2x.ozj 8415209a 43506
 Data/Item/bowdiamondf1.bmd 4c5f07b6 150249
+Data/Item/bowGENNO115.bmd 45595062 347003
 Data/Item/bowGREENF60.bmd 329b5807 41628
 Data/Item/BowKitBlueRHMakers.ozj 6094d730 96154
 Data/Item/bowkronus60.bmd e54b3227 203880
@@ -264,6 +265,11 @@ Data/Item/DcMakerMistShield.ozj f5ded147 104174
 Data/Item/DcMakerMistShield1.ozj 210d3e75 213336
 Data/Item/DcMakerMistStaff.ozj f5ded147 104174
 Data/Item/DcMakerMistSword.ozj f5ded147 104174
+Data/Item/DcMakerNewKitDarkBow.ozj fd109570 57538
+Data/Item/DcMakerNewKitDarkMace.ozj fd109570 57538
+Data/Item/DcMakerNewKitDarkShield.ozj fd109570 57538
+Data/Item/DcMakerNewKitDarkStaff.ozj fd109570 57538
+Data/Item/DcMakerNewKitDarkSword.ozj fd109570 57538
 Data/Item/DcMakerReaperBow.ozj 148e9890 56016
 Data/Item/DcMakerReaperBow1.ozj ffd5817d 3069
 Data/Item/DcMakerReaperMace.ozj 148e9890 56016
@@ -316,6 +322,7 @@ Data/Item/mace1dnv.bmd 86613535 523568
 Data/Item/Mace24phoenixxxxxxx.bmd 2ae0b0b3 308258
 Data/Item/MaceDcMakerSteel2.ozj 99d4029c 49029
 Data/Item/macediamondbk1.bmd f2954448 215583
+Data/Item/maceGENNO115.bmd ac85d45a 63706
 Data/Item/macemc.bmd f861faae 200753
 Data/Item/maceROXXODL100.bmd 1b6a9418 195198
 Data/Item/macescepterkro104.bmd deefa00b 118451
@@ -401,6 +408,7 @@ Data/Item/ShieldDarkness.bmd 17e1f5a0 83001
 Data/Item/ShieldDcMakerSteel2.ozj 2f685ac3 57537
 Data/Item/ShieldDcMakerSteel2.ozt c70bd87c 65558
 Data/Item/shielddiamond1.bmd 38b2735e 72549
+Data/Item/shieldGENNO115.bmd 23bd6d49 159019
 Data/Item/shieldGREEN62.bmd d1ac71a6 139820
 Data/Item/shieldkronus62.bmd ef36606a 149394
 Data/Item/shieldkundun100.bmd 88f42d34 95624
@@ -430,6 +438,7 @@ Data/Item/StaffDarkness.bmd 76ad8542 251148
 Data/Item/StaffDcMakerSteel2.ozj f3a20e26 47995
 Data/Item/StaffDcMakerSteel2.ozt 17035334 65558
 Data/Item/staffdiamond1.bmd ab2565f2 223913
+Data/Item/staffGENNO115.bmd e6ea6579 132043
 Data/Item/STAFFGREEN102.bmd 0c364761 143961
 Data/Item/staffkronus105.bmd 6bc6f473 276565
 Data/Item/staffkundun100.bmd 7b7c2656 127589
@@ -491,6 +500,7 @@ Data/Item/swordBKGreen101.bmd d185f904 111773
 Data/Item/swordbrancodbk100.bmd a5ddc330 236596
 Data/Item/swordDcMakerSteel2.ozj a4aea038 56699
 Data/Item/swordDcMakerSteel2.ozt cb449b8c 65558
+Data/Item/swordGENNOBK115.bmd c37b1b71 139729
 Data/Item/swordiamondmg1.bmd 30b21a37 169443
 Data/Item/swordkronusmg101.bmd 4009e28b 155810
 Data/Item/swordlaranjabk100.bmd d99740ad 83619
@@ -1419,6 +1429,8 @@ Data/Player/armordiamondf85.bmd be449708 164216
 Data/Player/armordiamondm83.bmd c06592a0 137754
 Data/Player/armorf1dnv.bmd 4c337f00 135094
 Data/Player/armorfkundun.bmd 52cf0cde 107548
+Data/Player/armorGENNOf177.bmd f5da512f 285958
+Data/Player/armorGENNOM176.bmd 65f84b15 288876
 Data/Player/armorGreenF331.bmd e18fbfa9 194806
 Data/Player/armorGREENM30.bmd 28a3d7ef 208716
 Data/Player/armorkronusf331.bmd a0c10e70 142705
@@ -1443,6 +1455,8 @@ Data/Player/bootbrancodf144.bmd 4934d99d 218696
 Data/Player/bootbrancodm143.bmd e2543042 176752
 Data/Player/bootdiamondf85.bmd 9e0c1325 48424
 Data/Player/bootdiamondm83.bmd 47e4c8ff 39248
+Data/Player/bootGENNOf177.bmd 67a809ea 88172
+Data/Player/bootGENNOM176.bmd 1875cb88 64552
 Data/Player/bootGreenF331.bmd 91fcbf84 62330
 Data/Player/bootGREENM330.bmd 11320f8d 65210
 Data/Player/bootkronusf331.bmd e29c7551 79557
@@ -1516,6 +1530,9 @@ Data/Player/DcMakerMistSetF3.ozj bf3bdde9 51122
 Data/Player/DcMakerMistSetM.ozj 210d3e75 213336
 Data/Player/DcMakerMistSetM1.ozj a1db4761 203932
 Data/Player/DcMakerMistSetM2.ozj 95937131 9900
+Data/Player/DcMakerNewKitDarkSetF.ozj fd109570 57538
+Data/Player/DcMakerNewKitDarkSetF1.ozj 251e53d3 273211
+Data/Player/DcMakerNewKitDarkSetM.ozj fd109570 57538
 Data/Player/DcMakerReaperSetF.ozj cba2be05 201339
 Data/Player/DcMakerReaperSetF1.ozj cee6c26d 160470
 Data/Player/DcMakerReaperSetF2.ozj 8d497702 73951
@@ -1533,6 +1550,8 @@ Data/Player/glovebrancodf144.bmd cf9a20a2 234376
 Data/Player/glovebrancodm143.bmd 2c4aa2b1 64048
 Data/Player/glovediamondf85.bmd 9664b773 47072
 Data/Player/glovediamondm83.bmd d932a527 41702
+Data/Player/gloveGENNOf177.bmd 75ab86e5 71848
+Data/Player/gloveGENNOM176.bmd 9953ca44 152096
 Data/Player/gloveGreenF331.bmd ec1c28e2 103658
 Data/Player/gloveGREENM330.bmd 08c04cfe 103658
 Data/Player/glovekronusf331.bmd b4f5ba42 87589
@@ -1585,6 +1604,8 @@ Data/Player/HelmDarknessF.bmd 68531e68 164684
 Data/Player/HelmDarknessM.bmd dd3cca45 70212
 Data/Player/helmdiamondf85.bmd f34b30a0 50992
 Data/Player/helmdiamondm83.bmd 4accb31a 38282
+Data/Player/helmGENNOf177.bmd 3b947140 104762
+Data/Player/helmGENNOM176.bmd a19d56e5 43588
 Data/Player/helmGreenF331.bmd c7e6e3fe 60484
 Data/Player/helmGREENM330.bmd 68851395 46202
 Data/Player/helmkronusf331.bmd bd0da4c0 47125
@@ -1633,6 +1654,8 @@ Data/Player/pantbrancodf144.bmd afb2f54d 200664
 Data/Player/pantbrancodm143.bmd 14bdad31 142256
 Data/Player/pantdiamondf85.bmd fbef7118 93292
 Data/Player/pantdiamondm83.bmd 0d867fd8 47808
+Data/Player/pantGENNOf77.bmd 8ed4c4cd 553670
+Data/Player/pantGENNOM176.bmd f6f4ce45 563180
 Data/Player/pantGreenF331.bmd 1319a598 73200
 Data/Player/pantGREENM330.bmd 9190c68f 20760
 Data/Player/pantkronusf331.bmd e496be31 131973
