@@ -9,7 +9,7 @@ Krypton.dll 2129d804 4885504
 Main.dll af0cb58a 7755264
 Main.exe 0dbfe6a4 3615232
 Main.ico b4178433 9662
-main.premium 9742f33f 2775700
+main.premium 0cf4132a 2775700
 Matrix.Plugins eaf629b7 2097416
 msvcp100.dll 38f12a25 421200
 msvcr100.dll db505e33 770384
@@ -108,6 +108,25 @@ Data/Custom/Monster/serufan_arm.ozj 58a2dbca 48333
 Data/Custom/Monster/serufan_body.ozj 1f2d1ff4 146672
 Data/Custom/Monster/serufan_wand.ozj 1daa4ccc 42480
 Data/Custom/Monster/serufan_wing.ozt 833e2d07 65558
+Data/Custom/Monster/stone01.ozj 9924bf46 26177
+Data/Custom/Monster/Stone06.bmd 19b2d4c7 296731
+Data/Custom/Monster/Stone10.ozj 2b840c5a 69483
+Data/Custom/Monster/Stone12.ozj 260d90ab 64406
+Data/Custom/Monster/Stone13.ozj 5a4bb8e9 88544
+Data/Custom/Monster/Stone16.ozj 1efbbf38 98217
+Data/Custom/Monster/Stone18.ozj ef358cf3 62203
+Data/Custom/Monster/Stone19.ozj 17d7b1fa 79463
+Data/Custom/Monster/Stone2.ozj 5cd1d653 22013
+Data/Custom/Monster/Stone20.ozj 14421260 91027
+Data/Custom/Monster/Stone22.ozj 2f949574 113892
+Data/Custom/Monster/Stone26.ozj 15b05c2e 105073
+Data/Custom/Monster/Stone27.ozj 6d36fb24 58045
+Data/Custom/Monster/Stone28.ozj 753913ac 25904
+Data/Custom/Monster/Stone29.ozj a962f84a 27058
+Data/Custom/Monster/Stone3.ozj 117b5173 25807
+Data/Custom/Monster/Stone30.ozj b3f2828c 23744
+Data/Custom/Monster/Stone4.ozj 05a4cb31 21407
+Data/Custom/Monster/Stone5.ozj de7b287a 26728
 Data/Custom/Monster/T_Npc_027_d_01.jpg ce35b9e0 280425
 Data/Custom/Monster/T_Npc_027_d_01.ozj 3c99de6a 280449
 Data/Custom/Monster/T_Npc_027_wing_d.jpg 2deb8a45 209815
@@ -123,6 +142,7 @@ Data/Item/Axe11seluplplp.bmd e0d5a820 182430
 Data/Item/Axe13hlhlhl.bmd 32567e14 153810
 Data/Item/Axe14rfrfrf.bmd 7729bd5f 269058
 Data/Item/axe18gorogogo.bmd a4aa60c8 176546
+Data/Item/Axe19fear.bmd a4d1a8fa 97206
 Data/Item/axe19kdkdkd.bmd 83f0382b 173018
 Data/Item/Axe20rfrfbalrog.bmd 2b825bff 51440
 Data/Item/Axe21braveveve.bmd 0ff65e21 59981
@@ -130,6 +150,7 @@ Data/Item/Axe21Wyru.ozj 0dc03737 97167
 Data/Item/Axe22selupananan.bmd dd198fa2 88057
 Data/Item/Axe24wyru.ozj 5d234be4 132027
 Data/Item/Axe27gregren.bmd 8c55a7a2 53461
+Data/Item/Axejhon01.ozj 1fcf435c 60000
 Data/Item/axejhon02.ozj 7610716d 38765
 Data/Item/axeleilao.bmd 42dbfded 41908
 Data/Item/AxLvDcMakers1501.ozj d49d7062 247245
@@ -282,6 +303,8 @@ Data/Item/GreenSWDaniela2.ozj 5fc8c327 17003
 Data/Item/GreenSWDaniela3.ozj e3cbc0f0 8135
 Data/Item/HadraidBM.ozt abed25fb 262166
 Data/Item/hammer.bmd 23429025 397718
+Data/Item/hoangsyriuchien1.ozj 1a7c0c70 141254
+Data/Item/hoangsyriuchien2.ozj 0a25feb9 161321
 Data/Item/Jewel04.bmd c310a100 2890
 Data/Item/Jewel06.bmd b0246909 2890
 Data/Item/lancaBKkundun.bmd b578645d 202678
@@ -321,6 +344,7 @@ Data/Item/Purple.ozj 33f2e739 1250
 Data/Item/QQ_zhuxiansijian_hongout.ozj 304b8a0e 331417
 Data/Item/QQ_zhuxiansijian_lvXanhC.ozj ae7e48e4 333049
 Data/Item/ring.bmd f1ed4920 158358
+Data/Item/riunan.bmd 5b9c3cb4 223846
 Data/Item/RIVITO_BOXFENRIRD.ozj f6c1e553 113312
 Data/Item/RIVITO_CAPAFENRIRED_FIX.ozt b0fedeb3 1048624
 Data/Item/RIV_ARMASDARK_01.ozt 813aa159 262166
