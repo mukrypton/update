@@ -9,7 +9,6 @@ Krypton.dll 2129d804 4885504
 Main.dll af0cb58a 7755264
 Main.exe 0dbfe6a4 3615232
 Main.ico b4178433 9662
-main.premium 0cf4132a 2775700
 Matrix.Plugins eaf629b7 2097416
 msvcp100.dll 38f12a25 421200
 msvcr100.dll db505e33 770384
