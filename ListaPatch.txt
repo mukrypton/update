@@ -9,7 +9,7 @@ Krypton.dll 2129d804 4885504
 Main.dll af0cb58a 7755264
 Main.exe 0dbfe6a4 3615232
 Main.ico b4178433 9662
-main.premium cdd46818 2775700
+main.premium f1572184 2775700
 Matrix.Plugins eaf629b7 2097416
 msvcp100.dll 38f12a25 421200
 msvcr100.dll db505e33 770384
@@ -80,7 +80,18 @@ Data/Custom/Monster/AQ_magician_cloth.OZJ e25661d1 274752
 Data/Custom/Monster/AQ_magician_jewel.OZJ a5221ed6 35788
 Data/Custom/Monster/AQ_magician_skin.OZJ 90059984 24390
 Data/Custom/Monster/BOSSanubis.bmd 631033d8 540229
+Data/Custom/Monster/Brokais.bmd 078f2d22 2246927
+Data/Custom/Monster/Brokais.ozj 1d9e3b23 170105
+Data/Custom/Monster/Brokais.smd 557c759e 4026158
+Data/Custom/Monster/Brokais_001.smd 64eda572 199452
+Data/Custom/Monster/Brokais_002.smd 64eda572 199452
+Data/Custom/Monster/Brokais_003.smd f53440fe 90316
+Data/Custom/Monster/Brokais_004.smd b32d85a5 126535
+Data/Custom/Monster/Brokais_005.smd b32d85a5 126535
+Data/Custom/Monster/Brokais_006.smd 64eda572 199452
+Data/Custom/Monster/Brokais_007.smd 847e9c78 440639
 Data/Custom/Monster/dust01.OZT dae97c6b 16432
+Data/Custom/Monster/EvilDemon01.bmd 078f2d22 2246927
 Data/Custom/Monster/FlareGlow00_mono.OZJ 30b78ddd 20846
 Data/Custom/Monster/Lycandor00.bmd 1af14a27 480463
 Data/Custom/Monster/Lycandor00.smd abb4f845 765617
