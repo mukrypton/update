@@ -1,4 +1,3 @@
-Antihack.dll dedf98f2 2722816
 AntiLagV3.dll 0c0a8443 82432
 Camera.dll f298096a 33280
 CEffect.dll 7b1e0daa 171008
@@ -7,14 +6,13 @@ GamesWteam.dll 15feb40c 368640
 imgui.ini 33057d4b 217
 Krypton.dll 2129d804 4885504
 Main.dll af0cb58a 7755264
-Main.exe 0dbfe6a4 3615232
+Main.exe cd6f3bce 3651584
 Main.ico b4178433 9662
-main.premium 5be9ee70 2775700
+main.premium c69855a6 2775700
 Matrix.Plugins 6661c684 2097416
 msvcp100.dll 38f12a25 421200
 msvcr100.dll db505e33 770384
 ogg.dll bb239ef8 53248
-Plugin.dll 58f2310a 355328
 vorbisfile.dll b3544474 999424
 wzAudio.dll a0747522 212992
 xController.ini 7fce7c8d 403
@@ -169,6 +167,7 @@ Data/Item/Bow100hydra.bmd f6f248d4 67714
 Data/Item/bow1dnv.bmd 0a3d91f8 433378
 Data/Item/Bow27slpn.bmd 923101d0 227287
 Data/Item/bow60brv2.bmd e3be6e35 1261288
+Data/Item/bow60dwqcq.bmd fbd35d8a 244590
 Data/Item/bowBalrogV100.bmd ae7622a7 140929
 Data/Item/BowBlackBluesRHMakers.ozj 2578f7dc 41826
 Data/Item/bowbrancod100.bmd 000cad91 73538
@@ -293,6 +292,18 @@ Data/Item/DcMakerReaperStaff.ozj 148e9890 56016
 Data/Item/DcMakerReaperStaff1.ozj ffd5817d 3069
 Data/Item/DcMakerReaperSword.ozj 148e9890 56016
 Data/Item/DcMakerReaperSword1.ozj ffd5817d 3069
+Data/Item/DragonCelestialDanielaBw.ozj 5421057f 95874
+Data/Item/DragonCelestialDanielaBw1.ozj 1165be32 89567
+Data/Item/DragonCelestialDanielaSC.ozj dc3656b0 87112
+Data/Item/DragonCelestialDanielaSC1.ozj 07a810af 93385
+Data/Item/DragonCelestialDanielaST.ozj 2abe7adf 102238
+Data/Item/DragonCelestialDanielaST1.ozj 1165be32 89567
+Data/Item/DragonCelestialDanielaST2.ozj dc3656b0 87112
+Data/Item/DragonCelestialDanielaStk.ozj 07a810af 93385
+Data/Item/DragonCelestialDanielaSWM.ozj dc3656b0 87112
+Data/Item/DragonCelestialDanielaSwm1.ozj 1165be32 89567
+Data/Item/DragonCelestialSH.ozj 948b9a1d 96837
+Data/Item/DragonCelestialSW.ozj 7130f630 89407
 Data/Item/FableBow.bmd 1378a31d 325542
 Data/Item/FableScepter.bmd 738c3d94 347932
 Data/Item/FableShield.bmd 47fe0b72 359555
@@ -433,6 +444,7 @@ Data/Item/ShBlackBlueRHMakers.ozj 62a5193b 478192
 Data/Item/Shield10tt0hydra.bmd 68bcb91f 298278
 Data/Item/shield1dnv.bmd 6421a085 241460
 Data/Item/shield62brv2.bmd 799d54b2 371372
+Data/Item/shield62gqqwd.bmd 0cb12442 511020
 Data/Item/ShieldAZZUL.bmd 09ed9b70 56544
 Data/Item/shieldBalrogV100.bmd c2893ec4 78163
 Data/Item/shieldbrancod100.bmd ace2114d 99659
@@ -518,12 +530,17 @@ Data/Item/swford10ff1.bmd 8428cfeb 293025
 Data/Item/Sword04PHOENIXXX.bmd 7401d948 78975
 Data/Item/sword100hydra.bmd c5d52a77 75734
 Data/Item/sword101brv2.bmd dc29f0a5 513507
+Data/Item/sword101qwd.bmd 7fb02906 261578
 Data/Item/sword101rsggsd.bmd 35789ccc 112174
 Data/Item/sword102brv2.bmd febf681e 382832
+Data/Item/sword102dqwdc.bmd 2ed9c072 242752
+Data/Item/sword103asdwq.bmd 28cfeb89 108830
 Data/Item/sword103brv2.bmd 698a1d24 727712
 Data/Item/sword104.bmd 2a99082d 103508
 Data/Item/sword104brv2.bmd 95cf999d 438274
+Data/Item/sword104gfqwdqw.bmd 6a4fdf47 192754
 Data/Item/sword105brv2.bmd 27646ce8 393848
+Data/Item/sword105dfqwd.bmd a4d1322e 218831
 Data/Item/sword1dnv.bmd 4339d583 353341
 Data/Item/Sword65genogeno.bmd dcd59bc6 81802
 Data/Item/SwordAZZULBK100.bmd 74e70cee 285496
@@ -2113,6 +2130,8 @@ Data/Player/armorlaranjaf101.bmd a91ebe74 248114
 Data/Player/ArmorMale222brave.bmd 8afb1a55 1058670
 Data/Player/ArmorMale223brave.bmd 7835452e 838820
 Data/Player/ArmorMale251hydra.bmd b9bc8d20 105280
+Data/Player/armormale330asdwq.bmd 49b590c2 542324
+Data/Player/armormale331asdqw.bmd 2b80d95f 691192
 Data/Player/ArmorMale66hydra.bmd 6e810781 130530
 Data/Player/armormale83fbb.bmd 400322c8 302786
 Data/Player/armorROXOFF101.bmd c1e165dc 155792
@@ -2140,6 +2159,8 @@ Data/Player/bootlaranjaf101.bmd 23ac59db 40203
 Data/Player/BootMale222brave.bmd 13b2757b 490308
 Data/Player/BootMale223brave.bmd 60d7fad3 490308
 Data/Player/BootMale251hydra.bmd 816d5646 38232
+Data/Player/bootmale330dqw.bmd 44b22ec9 65612
+Data/Player/bootmale331qwdas.bmd 9f2faa63 149472
 Data/Player/BootMale66hydra.bmd 5de324a9 43672
 Data/Player/bootmale83fbb.bmd 378aab8f 79914
 Data/Player/bootROXOFF101.bmd f861fb91 88172
@@ -2216,6 +2237,8 @@ Data/Player/DcMakerReaperSetF5.ozj 863b168a 19476
 Data/Player/DcMakerReaperSetF6.ozj 35f69261 8258
 Data/Player/DcMakerReaperSetM.ozj cba2be05 201339
 Data/Player/DcMakerReaperSetM1.ozj 95937131 9900
+Data/Player/DragonCelestialDaniela.ozj 2cdf9ece 273744
+Data/Player/DragonCelestialDanielaF.ozj ee9d1aa6 251495
 Data/Player/FEM.ozj 30a5c01e 100336
 Data/Player/GloveAZUFEMIN.bmd 9941d975 29456
 Data/Player/gloveAZUMASC208.bmd 90a091c2 74440
@@ -2236,6 +2259,8 @@ Data/Player/glovelaranjaf101.bmd 096c97ee 60723
 Data/Player/GloveMale222brave.bmd c6f8abe8 1013689
 Data/Player/GloveMale223brave.bmd 3de3d1a4 986374
 Data/Player/GloveMale251hydra.bmd 79165b9b 78184
+Data/Player/glovemale330dqw.bmd db729106 139520
+Data/Player/glovemale331dqwd.bmd e615266b 143920
 Data/Player/GloveMale66hydra.bmd 4f2ccd74 52840
 Data/Player/glovemale83fbb.bmd 12dfaa93 102330
 Data/Player/gloveROXOFF101.bmd fab4f776 71848
@@ -2291,6 +2316,8 @@ Data/Player/helmlaranjaf101.bmd 592cf144 102612
 Data/Player/HelmMale222brave.bmd 0a42f14c 1039178
 Data/Player/HelmMale223brave.bmd ee67efd2 354766
 Data/Player/HelmMale251hydra.bmd c682a6ae 50752
+Data/Player/helmmale330gwqe.bmd 71cba39e 239344
+Data/Player/helmmale331dqwdwq.bmd 5e8b70ea 791760
 Data/Player/HelmMale66hydra.bmd 10274a85 65422
 Data/Player/helmmale83fbb.bmd b371eec0 89388
 Data/Player/helmo1dnv.bmd 2580dade 89268
@@ -2341,6 +2368,8 @@ Data/Player/pantKUNDUN100.bmd f6412e14 39828
 Data/Player/PantMale222brave.bmd 99c08d10 667300
 Data/Player/PantMale223brave.bmd ea4e6fb8 352634
 Data/Player/PantMale251hydra.bmd 7a6a4e4c 36520
+Data/Player/pantmale330qwas.bmd 45c282f9 175500
+Data/Player/pantmale331dqwd.bmd ab41af45 201800
 Data/Player/PantMale66hydra.bmd 58fcd4a0 53618
 Data/Player/pantmale83fbb.bmd 24ad82b7 30344
 Data/Player/pantROXOFF101.bmd 742396f3 152454
@@ -2528,5 +2557,3 @@ Data/World7/TileRock09.OZJ 24dfda17 52485
 Data/World7/TileWater01.OZJ 5404166b 63000
 Data/World7/TileWood01.OZJ 16fae487 40743
 Data/World7/TileWood02.OZJ 718400d0 34393
-GameGuard/GameGuard.doc a8e66576 63488
-GameGuard/License.bmd 87758a39 20220
