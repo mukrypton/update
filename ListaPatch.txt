@@ -596,7 +596,7 @@ Data/Local/CSetEffect.bmd 350d30db 80997
 Data/Local/Filter.bmd e0575758 20004
 Data/Local/FilterName.bmd 67f39257 10004
 Data/Local/Item.bmd 5749c3d0 688132
-Data/Local/ItemAddOption.bmd 7e1f8b1b 131072
+Data/Local/ItemAddOption.bmd 1e809afb 131072
 Data/Local/ItemAddOption.txt bed8d087 61489
 Data/Local/ItemSetType.bmd 95f857a0 32772
 Data/Local/MacroConfig.bmd 8eff7c6b 4
